@@ -1,3 +1,13 @@
-.tab{
-    justify-content: right;
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+ul > li {
+    color: white;
+    display: inline;
+    float: right;
+    border-left: 1px solid #bbb;
 }
