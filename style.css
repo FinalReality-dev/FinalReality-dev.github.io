@@ -8,12 +8,28 @@ ul{
 
 ul li {
     display: inline;
-    /*float: right;*/
     border-left: 1px solid #bbb;
 }
 
 li a{
     float: right;
     color: #666;
+    background-color: #036;
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:active{
     text-decoration: none;
 }
