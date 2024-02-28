@@ -4,6 +4,7 @@ ul{
     padding: 0;
     background-color: #000000;
     position: sticky;
+    overflow: auto;
 }
 
 ul li {
@@ -14,6 +15,7 @@ li a{
     float: right;
     color: #ffffff;
     border-left: 1px solid #bbb;
+    margin-left: 5px;
     background-color: #036;
     text-decoration: none;
 }
